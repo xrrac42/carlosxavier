@@ -5,16 +5,17 @@
 
 
 
+<p align="flex-start">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right: 20px;">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=xrrac42&show_icons=true&theme=dark" />
+  </a>
 
-<a margin-left: 100px href="https://github.com/anuraghazra/convoychat">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=xrrac42&layout=compact&langs_count=8&card_width=320&theme=dark" />
+  </a>
+</p>
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xrrac42&show_icons=true&theme=dark" />
-</a> 
-
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=xrrac42&layout=compact&langs_count=8&card_width=320&theme=dark" />
-</a>
 
 
 <div  style= "margin-top: 100px"></div>
