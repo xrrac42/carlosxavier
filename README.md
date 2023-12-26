@@ -1,7 +1,7 @@
 ## Hello, I'm Carlos Eduardo Xavier :) 
 - Actually, I work with front-end, especially Angular  
 - Student's Science Computer
-- Pronouns: He/his
+- Pronouns: He/him
 
 
 
