@@ -7,7 +7,7 @@
 
 <p align="flex-start">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="margin-right: 20px;">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=xrrac42&show_icons=true&theme=dark" />
+    <img height=250 src="https://github-readme-stats.vercel.app/api?username=xrrac42&show_icons=true&theme=dark" />
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
