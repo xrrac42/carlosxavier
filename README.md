@@ -1,5 +1,4 @@
 ## Hello, I'm Carlos Eduardo Xavier :) 
-- Actually, I work with front-end, especially Angular  
 - Computer Science Student at UnB
 - Pronouns: He/him
 
